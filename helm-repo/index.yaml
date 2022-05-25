@@ -1,0 +1,19 @@
+apiVersion: v1
+entries:
+  lightdash:
+  - apiVersion: v2
+    appVersion: 0.27.1
+    created: "2022-05-25T08:43:04.160139+02:00"
+    description: A Helm chart to deploy lightdash on kubernetes
+    digest: 2fe16bcfb8680b69160f8c489f71921d87a96f288fb40b8d1686a69daab78e58
+    icon: https://docs.lightdash.com/img/logo.png
+    maintainers:
+    - email: jim@ramtank.com
+      name: jim80net
+      url: https://github.com/jim80net
+    name: lightdash
+    type: application
+    urls:
+    - https://fabianhardt.github.io/helm-repo/lightdash-0.2.0-fha.tgz
+    version: 0.2.0-fha
+generated: "2022-05-25T08:43:04.1591368+02:00"
